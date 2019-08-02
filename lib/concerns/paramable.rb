@@ -1,2 +1,4 @@
 module Paramable
-  module CLass
+  module InstanceMethods
+    
+    
